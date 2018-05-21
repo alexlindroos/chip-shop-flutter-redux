@@ -1,0 +1,28 @@
+name: chips_shop
+description: A new Flutter project.
+
+dependencies:
+  flutter:
+    sdk: flutter
+  redux: ^3.0.0
+  flutter_redux: ^0.5.0
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/pringles1.png
+    - assets/pringles2.png
+    - assets/pringles3.png
+    - assets/pringles4.png
+    - assets/pringles5.png
+    - assets/lays1.png
+    - assets/lays2.png
+    - assets/lays3.png
+    - assets/lays4.png
+    - assets/lays5.png
+
